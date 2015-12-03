@@ -1,4 +1,0 @@
-suites:
-    zebra_suite:
-        namespace: Zebra
-        psr4_prefix: Zebra
