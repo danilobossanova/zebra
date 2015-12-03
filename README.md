@@ -31,6 +31,6 @@ Client::printer('10.0.0.50')->send($zpl);
 ```
 ## Installation with Composer
 ```
-$ composer require 'robgridley/zebra:dev-master'
+$ composer require 'reginaldoazevedojr/zebra:dev-master'
 $ composer update
 ```
