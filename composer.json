@@ -1,21 +1,22 @@
 {
-	"name": "robgridley/zebra",
+	"name": "reginaldoazevedojr/zebra",
 	"description": "PHP ZPL builder and a basic client for network-connected Zebra label printers.",
 	"require": {
 		"php": ">=5.6.0",
 		"ext-gd": "*"
 	},
-	"require-dev": {
-		"phpspec/phpspec": "~2.0"
-	},
 	"authors": [
 		{
 			"name": "Rob Gridley",
 			"email": "me@robgridley.com"
+		},
+		{
+			"name": "Reginaldo Azevedo Junior",
+			"email": "reginaldoazevedojr@gmail.com"
 		}
 	],
 	"autoload": {
-		"psr-4": {
+		"psr-0": {
 			"Zebra\\": "src/"
 		}
 	}
